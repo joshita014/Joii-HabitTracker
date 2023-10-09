@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Joii-HabitTracker/static/css/main.82251848.css",
+    "main.js": "/Joii-HabitTracker/static/js/main.5bc6e5d2.js",
+    "index.html": "/Joii-HabitTracker/index.html",
+    "main.82251848.css.map": "/Joii-HabitTracker/static/css/main.82251848.css.map",
+    "main.5bc6e5d2.js.map": "/Joii-HabitTracker/static/js/main.5bc6e5d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82251848.css",
+    "static/js/main.5bc6e5d2.js"
+  ]
+}
