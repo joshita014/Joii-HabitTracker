@@ -38,5 +38,5 @@ React-Toolkit
 2. **Track Habits**: In the "Current Habits" view, you will see a list of all your habits. Each habit will have three buttons: "Done," "Not Done," and "None." Click on the appropriate button to mark the habit's status for today.
 
 3. **Weekly View**: Navigate to the "Weekly View" to see the status of each habit for the past 7 days. You can toggle between the three statuses for today or change the status of any previous day by clicking on the respective buttons.
-
+## Hosted URL: https://ornate-monstera-ccd4d7.netlify.app
 
